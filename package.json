@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "styled-components": "^5.3.3"
+  },
+  "devDependencies": {
+    "@types/babel__core": "^7.1.18",
+    "@types/node": "^17.0.10",
+    "@types/react": "^17.0.33",
+    "@types/react-dom": "^17.0.10",
+    "@types/styled-components": "^5.1.20",
+    "@typescript-eslint/eslint-plugin": "^5.10.0",
+    "@typescript-eslint/parser": "^5.10.0",
+    "@vitejs/plugin-react": "^1.0.7",
+    "eslint": "^8.7.0",
+    "eslint-plugin-react": "^7.28.0",
+    "typescript": "^4.4.4",
+    "vite": "^2.7.2"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "name": "pixarti",
+  "version": "1.0.1",
+  "description": "A site that creates pixel art with css using box-shadow, was made with Vite, React.js and Typescript. ( only works on devices that have pointers )",
+  "repository": "https://github.com/FhillSlinger/pixarti",
+  "author": "FhillSlinger <fhillslingercontact@gmail.com>",
+  "license": "MIT"
+}
