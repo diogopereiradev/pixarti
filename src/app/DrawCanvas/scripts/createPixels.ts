@@ -10,7 +10,7 @@ function createPixels (w: number, h: number): Array<HTMLSpanElement> {
       pixel.className ='pixel';
       pixel.setAttribute('data-x', `${xPos}`);
       pixel.setAttribute('data-y', `${yPos}`);
-      pixel.setAttribute('data-color', null);
+      pixel.setAttribute('data-color', 'null');
 
       pixel.onmousedown = () => updateConfig('mouseDown', true);
       pixel.onmouseup = () => updateConfig('mouseDown', false);

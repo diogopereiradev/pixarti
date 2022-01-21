@@ -4,7 +4,7 @@ function resetButtonHandler (ref: HTMLButtonElement): void {
     
     pixels.forEach((pixel: Element) => {
       pixel.setAttribute('style', 'background-color: #30303099;');
-      pixel.setAttribute('data-color', null);
+      pixel.setAttribute('data-color', 'null');
     });
   });
 }

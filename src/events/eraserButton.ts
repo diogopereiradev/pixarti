@@ -3,7 +3,7 @@ import updateConfig from '../scripts/updateConfig';
 
 function eraserButtonHandler (ref: HTMLButtonElement): void {
   ref.addEventListener('click', () => {
-    const config: ConfigProps = JSON.parse(window.localStorage.getItem('config'));
+    const config: ConfigProps = JSON.parse(window.localStorage.getItem('config') || '{}');
 
     if (config.eraser) {
       ref.style.border = '0px';
