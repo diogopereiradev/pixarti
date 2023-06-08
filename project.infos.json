@@ -1,0 +1,26 @@
+{
+  "name": "Pixarti",
+  "description": {
+    "pt": "Este projeto te permite criar pixelart utilizando box-shadow do CSS, o que faz com que você consiga fácilmente importar cubo por cubo e criar animações neles em seu site.",
+    "en": "This project allows you to create pixel art using CSS box-shadow, which enables you to easily import cube by cube and create animations on them for your website."
+  },
+  "technologies": [
+    {
+      "label": "React.js",
+      "color": "#4d90b6"
+    },
+    {
+      "label": "SC",
+      "color": "#b360a5"
+    },
+    {
+      "label": "Typescript",
+      "color": "#4d90b6"
+    }
+  ],
+  "projectThumbImageUrl": "https://i.ibb.co/TBYmjm8/image.png",
+  "projectIconUrl": "https://raw.githubusercontent.com/FhillSlinger/pixarti/master/src/assets/images/favicon.ico",
+  "projectRepositoryUrl": "https://github.com/FhillSlinger/pixarti",
+  "projectLiveUrl": "https://pixarti.vercel.app/",
+  "createdAt": "01/21/2022"
+}
