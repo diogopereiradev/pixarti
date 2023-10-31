@@ -1,4 +1,5 @@
 {
+  "priority": 3,
   "name": "Pixarti",
   "description": {
     "pt": "Este projeto te permite criar pixelart utilizando box-shadow do CSS, o que faz com que você consiga fácilmente importar cubo por cubo e criar animações neles em seu site.",
