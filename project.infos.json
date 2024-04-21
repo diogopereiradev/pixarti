@@ -20,8 +20,8 @@
     }
   ],
   "projectThumbImageUrl": "https://i.ibb.co/TBYmjm8/image.png",
-  "projectIconUrl": "https://raw.githubusercontent.com/FhillSlinger/pixarti/master/src/assets/images/favicon.ico",
-  "projectRepositoryUrl": "https://github.com/FhillSlinger/pixarti",
+  "projectIconUrl": "https://raw.githubusercontent.com/diogopereiradev/pixarti/master/src/assets/images/favicon.ico",
+  "projectRepositoryUrl": "https://github.com/diogopereiradev/pixarti",
   "projectLiveUrl": "https://pixarti.vercel.app/",
   "createdAt": "01/21/2022"
 }
